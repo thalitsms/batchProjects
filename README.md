@@ -15,14 +15,14 @@ http://localhost:8080/api/home
 Executa o BATCH
 http://localhost:8080/api/batch
 ```
-<img src="https://user-images.githubusercontent.com/45610020/214701542-8c368d37-17dd-4f29-aa92-2d0f8bc1a3ec.png" width="250">
+<img src="https://user-images.githubusercontent.com/45610020/214701542-8c368d37-17dd-4f29-aa92-2d0f8bc1a3ec.png" width="1250">
 
 ```
 Consulta os registros cadastrados no banco de dados
 http://localhost:8080/api/carros
 ```
 
-<img src="https://user-images.githubusercontent.com/45610020/214701632-b56794b7-2bc5-4f16-bc95-6de9aefcb68f.png" width="250">
+<img src="https://user-images.githubusercontent.com/45610020/214701632-b56794b7-2bc5-4f16-bc95-6de9aefcb68f.png" width="1250">
 
 
 
