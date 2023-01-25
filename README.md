@@ -8,7 +8,7 @@ Passo a passo execução manual do batch:
 
 Acessa a pagina inicial da API
 http://localhost:8080/api/home
-![image](https://user-images.githubusercontent.com/45610020/214701325-ae47980e-3262-4b73-bb60-4a9ed7ed6df1.png)
+<img src="https://user-images.githubusercontent.com/45610020/214701325-ae47980e-3262-4b73-bb60-4a9ed7ed6df1.png">
 
 Executa o BATCH
 http://localhost:8080/api/batch
