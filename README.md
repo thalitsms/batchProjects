@@ -1,33 +1,29 @@
-# newcarshopBatchAPI
+# 🚗 newcarshopBatchAPI
 
-<h4>Praticando o desenvolvimento de uma aplicação Spring Batch que cria um processamento em lote de dados com start manuel e schedulling.</h4>
+## 🎯 Purpose
 
-<p>Curso de aprendizado: <a href="https://www.udemy.com/course/introducao-a-spring-batch-com-spring-boot/"> Spring Batch para Automatizar Processos do Dia a Dia</a>.</p>
+This project is a Spring Batch application designed to enable batch data processing. It allows for both manual start and scheduled batch tasks. The primary intent is to facilitate and automate data management tasks for the New Car Shop system.
 
+📘 **Learning Source**: [Introduction to Spring Batch with Spring Boot](https://www.udemy.com/course/introducao-a-spring-batch-com-spring-boot/).
 
+## 🔧 Getting Started
 
-```javascript
-Passo a passo execução manual do batch:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the Spring Boot application.
 
-Acessa a pagina inicial da API
-http://localhost:8080/api/home
-```
-<img src="https://user-images.githubusercontent.com/45610020/214701325-ae47980e-3262-4b73-bb60-4a9ed7ed6df1.png" width="1250">
+```bash
+# 📥 Clone the project repository:
+git clone https://github.com/thalitsms/newcarshopBatchAPI.git
 
-```
-Executa o BATCH
-http://localhost:8080/api/batch
-```
-<img src="https://user-images.githubusercontent.com/45610020/214701542-8c368d37-17dd-4f29-aa92-2d0f8bc1a3ec.png" width="1250">
+# 📁 Move to the project directory:
+cd newcarshopBatchAPI
 
-```
-Consulta os registros cadastrados no banco de dados
-http://localhost:8080/api/carros
-```
+# 🚀 Start the Spring Boot application:
+mvn spring-boot:run
 
-<img src="https://user-images.githubusercontent.com/45610020/214701632-b56794b7-2bc5-4f16-bc95-6de9aefcb68f.png" width="1250">
-
-
-
-
-
+🌐 Endpoints
+🏠 API Homepage: /api/home
+🔄 Execute BATCH: /api/batch
+🔍 Check Registered Records: /api/carros
+🌐 The service will start and will be available on port 8080.
